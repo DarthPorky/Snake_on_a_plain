@@ -9,6 +9,6 @@ public class SnakeFrame extends JFrame {
 		this.pack();
 		this.setVisible(true);
 		this.setLocationRelativeTo(null);
-		this.setSize(500, 500);
+
 	}
 }
